@@ -2,14 +2,14 @@
  "id": null,
  "result": [
 {
-    "url": " ",
-    "timestamp": " ",
+    "url": "https://www.dropbox.com/s/0750i3h8up7fg30/cm-12.1-20160311-UNOFFICIAL-t8p.zip?dl=1",
+    "timestamp": "1457718162",
     "api_level": "22",
-    "md5sum": " ",
-    "filename": " ",
+    "md5sum": "53f3b112d479e6147553a2b47eaa6e8b",
+    "filename": "cm-12.1-20160311-UNOFFICIAL-t8p.zip",
     "channel": "NIGHTLY",
     "changes": "https://raw.githubusercontent.com/ariafan/API_CMUpdater/master/CHANGELOG",
-    "incremental": " "
+    "incremental": "e0f87acb3e"
     },
   ],
  "error": null
