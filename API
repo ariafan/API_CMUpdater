@@ -2,14 +2,14 @@
  "id": null,
  "result": [
 {
-    "url": "https://www.dropbox.com/s/0750i3h8up7fg30/cm-12.1-20160311-UNOFFICIAL-t8p.zip?dl=1",
-    "timestamp": "1457718162",
+    "url": "https://www.dropbox.com/s/ijow3jqhl76tv9i/cm-12.1-20160320-UNOFFICIAL-t8p.zip?dl=1",
+    "timestamp": "1458497019",
     "api_level": "22",
-    "md5sum": "53f3b112d479e6147553a2b47eaa6e8b",
-    "filename": "cm-12.1-20160311-UNOFFICIAL-t8p.zip",
+    "md5sum": "1da9157be541796e6e09e51733301344",
+    "filename": "cm-12.1-20160320-UNOFFICIAL-t8p.zip",
     "channel": "NIGHTLY",
     "changes": "https://raw.githubusercontent.com/ariafan/API_CMUpdater/master/CHANGELOG",
-    "incremental": "e0f87acb3e"
+    "incremental": "fb4de9fdcd"
     },
   ],
  "error": null
